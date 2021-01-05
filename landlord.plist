@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-					          <string>http://39.98.113.228:9080/ios/__UNI__AB5BB2F_0105114146.ipa</string>
+					<string>http://39.98.113.228:9090/ios/__UNI__AB5BB2F_0105114146.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
